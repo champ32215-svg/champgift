@@ -50,10 +50,11 @@ export default function Screen2({ onNext }) {
                     onClick={onNext}
                     className="bg-gradient-to-r from-red-500 to-pink-600 hover:from-red-600 hover:to-pink-700 text-white font-semibold py-4 px-12 rounded-full text-xl transition-all duration-300 transform hover:scale-105 hover:shadow-2xl hover:shadow-red-500/30  flex items-center gap-2"
                 >
-                    Show Me <MoveRight size={22} className="mb-0.5" />
+                    Champ Gift <MoveRight size={22} className="mb-0.5" />
                 </button>
             </motion.div>
         </motion.div>
     )
 }
+
 
