@@ -35,7 +35,7 @@ export default function Screen2({ onNext }) {
                     transition={{ duration: 0.8 }}
                     className="text-4xl md:text-5xl font-bold text-white leading-tight"
                 >
-                    Are you really ready for Gift 🎁 ..? 
+                    Are you really ready for Gift 🎁
                 </motion.h1>
             </motion.div>
 
@@ -56,5 +56,6 @@ export default function Screen2({ onNext }) {
         </motion.div>
     )
 }
+
 
 
