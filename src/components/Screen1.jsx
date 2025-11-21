@@ -30,7 +30,7 @@ export default function Screen1({ onNext }) {
                 className="text-center space-y-4 flex flex-col justify-center"
             >
                 <h1 className="text-4xl md:text-5xl font-bold text-white leading-tight">I have a little Gift for you...</h1>
-                <p className="text-2xl md:text-3xl text-purple-200 font-light">And trust me... Only MY Pari deserve this 🥹</p>
+                <p className="text-2xl md:text-3xl text-purple-200 font-light">And trust me... Only MY Pari deserve this 😘❤️🥹</p>
             </motion.div>
 
             {/* Bottom button */}
@@ -50,4 +50,5 @@ export default function Screen1({ onNext }) {
         </motion.div>
     )
 }
+
 
